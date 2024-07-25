@@ -55,7 +55,8 @@ _Key aim: analyze the order fulfillment process and its effects on orders proces
 - How are discounts distributed (by percentage or range)?
 
 
-Megamart Analysis Dashboard
+**Megamart Analysis Dashboard**
+
 ![image](https://github.com/user-attachments/assets/c4dd3067-d4ae-41d6-8525-83b45479e525)
 ![image](https://github.com/user-attachments/assets/884cdcef-7536-4d28-8caa-f5e901024c31)
 ![image](https://github.com/user-attachments/assets/cf6441aa-a875-4208-a088-b8a68fd8d5f3)
