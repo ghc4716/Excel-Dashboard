@@ -28,36 +28,31 @@ _This Excel dataset includes the following variables:_
 
 The **key metrics** I aim to measure are: Sales/Revenue, Profit(Net Profit/Gross Profit), and Cost of operations
 
-**KEY OBJECTIVES OF THIS PROJECT:**
-A.	Identify the specific states experiencing the most significant sales decline.
-B.	Analyze product category performance to determine if certain product lines are causing a decline.
-C.	Investigate customer segmentation and buying behavior to understand customer preferences and purchasing habits.
-D.	How does shipping mode impact order delivery time, and overall shipping costs?
+I will conduct a thorough analysis of different sections to answer the objectives. This analysis is divided into four sections: Sales Analysis, Product Analysis, Customer Analysis, and Order Analysis. 
 
-We will conduct a thorough analysis of different sections to answer the objectives. This analysis is divided into four sections: Sales Analysis, Product Analysis, Customer Analysis, and Order Analysis. 
 **Sales Analysis:**
 _Key aim: Analyze overall sales trends, seasonal patterns, and regional variations._
-•	Identify overall sales trends and patterns over time.
-•	What is the geographical distribution of sales and profit?
-•	Calculate key sales metrics (e.g., total sales, total profit, total profit margin).
+- Identify overall sales trends and patterns over time.
+- What is the geographical distribution of sales and profit?
+- Calculate key sales metrics (e.g., total sales, total profit, total profit margin).
 
 **Product Analysis:**
 _Key aim: Identify top-selling and low-performing products, categories, and sub-categories._
-•	What is the distribution of sales by product category and sub-category?
-•	Which category of products generates the highest revenue and profit?
-•	What are the top-selling or most profitable products in the superstore?
+- What is the distribution of sales by product category and sub-category?
+- Which category of products generates the highest revenue and profit?
+- What are the top-selling or most profitable products in the superstore?
 
 **Customer Analysis:**
 _Key aim: Explore customer behavior based on demographics and purchase history._
-•	Which customer segment generates the highest sales and profit?
-•	What are some of the most frequent products purchased by different customer segments?
+- Which customer segment generates the highest sales and profit?
+- What are some of the most frequent products purchased by different customer segments?
 
 **Order Analysis:**
 _Key aim: analyze the order fulfillment process and its effects on orders processed over time._
-•	What are the patterns, frequency, and volume of orders?
-•	Analyze order processing time and shipping performance.
-•	What is the impact of discounts on sales?
-•	How are discounts distributed (by percentage or range)?
+- What are the patterns, frequency, and volume of orders?
+- Analyze order processing time and shipping performance.
+- What is the impact of discounts on sales?
+- How are discounts distributed (by percentage or range)?
 
 
 
