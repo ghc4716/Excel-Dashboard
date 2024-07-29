@@ -26,9 +26,7 @@ _This Excel dataset includes the following variables:_
 20. Discount => Discount provided.
 21. Profit => Profit/Loss incurred.
 
-The **key metrics** I aim to measure are: Sales/Revenue, Profit(Net Profit/Gross Profit), and Cost of operations
-
-I will conduct a thorough analysis of different sections to answer the objectives. This analysis is divided into four sections: Sales Analysis, Product Analysis, Customer Analysis, and Order Analysis. 
+Conducted a thorough analysis of different sections to answer the objectives. This analysis is divided into four sections: Sales Analysis, Product Analysis, Customer Analysis, and Order Analysis. 
 
 **Sales Analysis:**
 _Key aim: Analyze overall sales trends, seasonal patterns, and regional variations._
