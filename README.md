@@ -1,3 +1,5 @@
+Link to Medium Article and Project Report: https://medium.com/@creadogiselle/data-analysis-visualization-superstore-sales-c99cfe0880fe
+
 **Case Study:** **Analyzing the performance of a Superstore called MegaMart in the United States.**
 MegaMart is a large retail chain operating across the United States, specializing in office supplies, furniture, and technology products. The company seeks to understand its sales performance, identify growth opportunities, and optimize its operations.
 
